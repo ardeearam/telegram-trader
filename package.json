@@ -1,0 +1,23 @@
+{
+  "name": "telegram-trader",
+  "version": "1.0.0",
+  "description": "Bubot, the Telegram Trader",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardeearam/telegram-trader.git"
+  },
+  "author": "Ardee Aram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardeearam/telegram-trader/issues"
+  },
+  "homepage": "https://github.com/ardeearam/telegram-trader#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
